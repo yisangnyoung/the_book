@@ -1,2 +1,2 @@
 [workspace]
-members = ["minigrep"]
+members = ["ch13","minigrep"]
